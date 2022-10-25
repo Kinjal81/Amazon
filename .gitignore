@@ -1,2 +1,7 @@
 .java
 .html
+.txt
+*.java
+*.html
+*.txt
+
